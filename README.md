@@ -33,3 +33,5 @@ jupyter notebook
 ```
 
 and open the required notebook.
+
+Follow the instructions mentioned in the notebooks.
